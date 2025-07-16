@@ -1,8 +1,6 @@
 # Youtube_Title_Gen_LLM
 YouTube Title Generator with DPO Fine-tuning
 
-
-YouTube Title Generator with DPO Fine-tuning
 A machine learning project that fine-tunes a language model using Direct Preference Optimization (DPO) to generate engaging YouTube video titles. The model learns to create compelling titles that are optimized for click-through rates and viewer engagement.
 
 **Project Overview**
