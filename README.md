@@ -30,5 +30,5 @@ This project demonstrates how to:
 - Hardware: GPU-accelerated training (CUDA)
 - Monitoring: Weights & Biases integration
 
-**Training Results**
+**Training**
 - The model was trained for 3 epochs.
